@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "givesomebody": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "givesomebody",
+    "password": "",
+    "name": "givesomebody",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
